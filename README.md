@@ -1,6 +1,6 @@
 # Data Portfolio
 
 
-This is my github website!
+This is my portfolio website!
 
 🤔💬
